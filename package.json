@@ -1,0 +1,25 @@
+{
+  "name": "namasthe-react",
+  "version": "1.0.0",
+  "description": "this is Namasthe React by Akshay saini",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/saidurgar/namasthe-react.git)"
+  },
+  "keywords": [
+    "react",
+    "namasthe",
+    "react",
+    "akshay",
+    "saini"
+  ],
+  "author": "Akshay saini",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
